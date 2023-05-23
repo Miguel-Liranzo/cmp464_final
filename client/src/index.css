@@ -63,8 +63,7 @@ h4 {
 }
 
 .todo.is-complete .checkbox {
-	background-color: var(--primary);
-	background-image: linear-gradient(to bottom, var(--primary), var(--secondary));
+	background-color: #AF1E2D;
 }
 
 .todo .text {
