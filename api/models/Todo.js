@@ -8,7 +8,6 @@ const TodoSchema = new Schema({
     },
     complete: {
         type: Boolean,
-        default: false
     },
     timestamp: {
         type: String,
